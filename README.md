@@ -1,4 +1,4 @@
-# Hey, I'm Nick Thomas 👋
+# Hey, I'm Nicholas Thomas 👋
 
 ![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=2F81F7&width=650&height=45&lines=Exploring+markets%2C+finance%2C+and+AI.;Building+ideas+into+useful+tools.;Always+learning.+Always+asking+why.)
 
