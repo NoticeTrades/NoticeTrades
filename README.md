@@ -2,7 +2,7 @@
 
 ![Typing intro](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=2F81F7&width=650&height=45&lines=Exploring+markets%2C+finance%2C+and+AI.;Building+ideas+into+useful+tools.;Always+learning.+Always+asking+why.)
 
-I'm an advisor and staff accountant based in South Carolina, interested in markets, technology, and what drives people's decisions.
+I'm a financial operations advisor and accountant based in South Carolina, with an interest in markets, technology, and what drives people's decisions.
 
 I built **[Primate Trading](https://www.primatetrading.com/)** to share market research and trading ideas across equities, crypto, and macro markets. I also write about finance, technology, psychology, and what I'm learning on **[my personal website](https://bynickthomas.com/)**.
 
