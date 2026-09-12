@@ -8,7 +8,7 @@ I built **[Primate Trading](https://www.primatetrading.com/)** to share market r
 
 Currently exploring **AI agents, financial modeling, and tools that improve research and everyday workflows**. This GitHub is where I share what I'm building and learning along the way.
 
-Outside of work, you'll find me fishing, reading, or in the gym.
+Outside of work, you'll find me reading, doing card tricks, playing poker, exploring the world with my girlfriend, and just trying new things..
 
 [![Website](https://img.shields.io/badge/Personal_Website-111827?style=for-the-badge)](https://bynickthomas.com/)
 [![Primate Trading](https://img.shields.io/badge/Primate_Trading-2563EB?style=for-the-badge)](https://www.primatetrading.com/)
