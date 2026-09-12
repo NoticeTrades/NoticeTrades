@@ -6,7 +6,7 @@ I'm a financial operations advisor and accountant based in South Carolina, with 
 
 I built **[Primate Trading](https://www.primatetrading.com/)** to share market research and trading ideas across equities, crypto, and macro markets. I also write about finance, technology, psychology, and what I'm learning on **[my personal website](https://bynickthomas.com/)**.
 
-Currently exploring **AI agents, financial modeling, and tools that improve research and everyday workflows**. This GitHub is where I share what I'm building and learning along the way.
+Currently exploring **AI agents, financial modeling, , CPA/CMA, and tools that improve research and everyday workflows**. This GitHub is where I share what I'm building and learning along the way.
 
 Outside of work, you'll find me reading, doing card tricks, playing poker, exploring the world with my girlfriend, and just trying new things..
 
